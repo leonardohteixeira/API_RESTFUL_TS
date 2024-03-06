@@ -20,3 +20,11 @@
 2024-03-06 18:01:01:11 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
 2024-03-06 18:01:04:14 - [35mhttp[39m: [35mGET : url : status 12 - 1.716 ms[39m
 [35m[39m
+2024-03-06 18:11:29:1129 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-06 18:11:29:1129 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-06 18:12:49:1249 - [35mhttp[39m: [35mGET : url : status 152 - 2.617 ms[39m
+[35m[39m
+2024-03-06 18:13:11:1311 - [35mhttp[39m: [35mGET : url : status 148 - 0.838 ms[39m
+[35m[39m
+2024-03-06 18:13:33:1333 - [35mhttp[39m: [35mPOST : url : status 22 - 1.323 ms[39m
+[35m[39m
