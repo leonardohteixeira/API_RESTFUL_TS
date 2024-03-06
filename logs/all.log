@@ -28,3 +28,7 @@
 [35m[39m
 2024-03-06 18:13:33:1333 - [35mhttp[39m: [35mPOST : url : status 22 - 1.323 ms[39m
 [35m[39m
+2024-03-06 18:22:29:2229 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-06 18:22:29:2229 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-06 18:23:24:2324 - [35mhttp[39m: [35mPOST : url : status 155 - 57.009 ms[39m
+[35m[39m
