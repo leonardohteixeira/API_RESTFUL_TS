@@ -78,3 +78,15 @@
 [35m[39m
 2024-03-11 17:39:48:3948 - [35mhttp[39m: [35mPOST : url : status - - - ms[39m
 [35m[39m
+2024-03-11 17:40:09:409 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 17:40:09:409 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-11 17:40:15:4015 - [35mhttp[39m: [35mPOST : url : status 187 - 5.014 ms[39m
+[35m[39m
+2024-03-11 17:42:08:428 - [35mhttp[39m: [35mPOST : url : status 144 - 1.521 ms[39m
+[35m[39m
+2024-03-11 17:47:49:4749 - [35mhttp[39m: [35mPOST : url : status 346 - 39.327 ms[39m
+[35m[39m
+2024-03-11 18:17:07:177 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 18:17:07:177 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-11 18:18:01:181 - [35mhttp[39m: [35mGET : url : status 32 - 23.314 ms[39m
+[35m[39m
