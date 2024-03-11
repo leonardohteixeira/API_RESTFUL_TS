@@ -12,7 +12,7 @@ export async function createMovie(req: Request, res: Response) {
         const movie = await MovieModel.create(data)
         return res.status(201).json(movie)
     } catch (e: any) {
-        Logger.error(`Erro no sistema: ${e.message}`);
+        Logger.info(`Erro no sistema: ${e.message}`);
     }
 }
 

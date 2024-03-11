@@ -32,3 +32,49 @@
 2024-03-06 18:22:29:2229 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
 2024-03-06 18:23:24:2324 - [35mhttp[39m: [35mPOST : url : status 155 - 57.009 ms[39m
 [35m[39m
+2024-03-06 19:03:56:356 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-03-06 19:05:39:539 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-03-06 19:05:48:548 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-03-11 15:29:12:2912 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-03-11 15:32:49:3249 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 15:32:49:3249 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-11 15:32:54:3254 - [35mhttp[39m: [35mPOST : url : status 143 - 36.872 ms[39m
+[35m[39m
+2024-03-11 15:51:51:5151 - [35mhttp[39m: [35mPOST : url : status 142 - 24.595 ms[39m
+[35m[39m
+2024-03-11 15:56:50:5650 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 15:56:50:5650 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-11 17:07:26:726 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 17:07:26:726 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-11 17:17:02:172 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 17:17:02:172 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-11 17:24:35:2435 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 17:24:35:2435 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-11 17:24:40:2440 - [35mhttp[39m: [35mPOST : url : status 142 - 33.531 ms[39m
+[35m[39m
+2024-03-11 17:25:31:2531 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 17:25:31:2531 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-11 17:27:10:2710 - [35mhttp[39m: [35mPOST : url : status 142 - 32.292 ms[39m
+[35m[39m
+2024-03-11 17:27:14:2714 - [35mhttp[39m: [35mPOST : url : status 142 - 21.645 ms[39m
+[35m[39m
+2024-03-11 17:28:58:2858 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 17:28:58:2858 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-11 17:29:46:2946 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 17:29:46:2946 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-11 17:33:05:335 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 17:33:05:335 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-11 17:33:08:338 - [35mhttp[39m: [35mPOST : url : status 142 - 29.547 ms[39m
+[35m[39m
+2024-03-11 17:36:01:361 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 17:36:01:361 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-11 17:36:18:3618 - [35mhttp[39m: [35mPOST : url : status - - - ms[39m
+[35m[39m
+2024-03-11 17:36:21:3621 - [35mhttp[39m: [35mPOST : url : status - - - ms[39m
+[35m[39m
+2024-03-11 17:36:40:3640 - [35mhttp[39m: [35mPOST : url : status - - - ms[39m
+[35m[39m
+2024-03-11 17:36:50:3650 - [35mhttp[39m: [35mPOST : url : status - - - ms[39m
+[35m[39m
+2024-03-11 17:39:48:3948 - [35mhttp[39m: [35mPOST : url : status - - - ms[39m
+[35m[39m
