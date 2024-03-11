@@ -90,3 +90,11 @@
 2024-03-11 18:17:07:177 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
 2024-03-11 18:18:01:181 - [35mhttp[39m: [35mGET : url : status 32 - 23.314 ms[39m
 [35m[39m
+2024-03-11 18:18:36:1836 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 18:18:36:1836 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-11 18:18:45:1845 - [35mhttp[39m: [35mGET : url : status 346 - 28.118 ms[39m
+[35m[39m
+2024-03-11 18:21:36:2136 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 18:21:36:2136 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-11 18:21:39:2139 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-11 18:21:39:2139 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
